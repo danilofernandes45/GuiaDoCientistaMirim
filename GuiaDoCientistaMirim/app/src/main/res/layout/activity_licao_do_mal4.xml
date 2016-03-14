@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/container"
+    tools:context=".LicaoDoMal4">
+
+    <LinearLayout style="@style/linear_vertical">
+
+        <TextView
+            style="@style/info"
+            android:text="Motores são o que movem a vida, e também as máquinas, já dizia um velho sábio. Na quarta lição, lhe guiarei pela construção de um motor elétrico super-simples de fazer"/>
+
+        <View style="@style/horizontal_line"></View>
+
+        <TextView
+            style="@style/title"
+            android:text="**Motor elétrico mais simples da galáxia**"/>
+
+        <TextView
+            style="@style/topic"
+            android:text="Você vai precisar de:" />
+
+        <TextView
+            style="@style/subtopic"
+            android:text="- 2 pedaços de fio de cobre;" />
+
+        <TextView
+            style="@style/subtopic"
+            android:text="- 1 pilha AA;" />
+
+        <TextView
+            style="@style/subtopic"
+            android:text="- 1 superímã com o mesmo diâmetro da pilha;" />
+
+        <TextView
+            style="@style/topic"
+            android:text="Como fazer:" />
+
+        <TextView
+            style="@style/subtopic"
+            android:text="- Enrole as pontas dos fios de cobre, formando uma nova ponta;" />
+
+        <TextView
+            style="@style/subtopic"
+            android:text="- Abra as outras duas pontas dos fios formando uma espécie de arco, deixando a ponta enrolado para dentro;" />
+
+        <TextView
+            style="@style/subtopic"
+            android:text="- Com as outras duas duas pontas forme um círculo, indo uma ponta em direção ao fio da outra, com a circunfência um pouco maior que a do superímã;" />
+
+        <TextView
+            style="@style/subtopic"
+            android:text="- Coloque o superímã no polo negativo da pilha;" />
+
+        <TextView
+            style="@style/subtopic"
+            android:text="- Coloque a armação de fio de cobre sobre a pilha, de modo que a ponta interna do arco toque o polo positivo da pilha e o círculo entorno do superímã." />
+
+        <TextView
+            style="@style/topic"
+            android:text="Resultado:" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/motor_eletrico1"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/motor_eletrico2"/>
+
+        <Button style="@style/btn_licao_cumprida" />
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/container"
+    tools:context=".LicaoDoMal3">
+
+    <LinearLayout style="@style/linear_vertical">
+
+        <TextView
+            style="@style/info"
+            android:text="Cientistas que se presam, criam seres orgânicos ou metálicos que possam controlar. Nesta lição, será criado um ser organometálico totalmente controlável!"/>
+
+        <View style="@style/horizontal_line"></View>
+
+        <TextView
+            style="@style/title"
+            android:text="**Ferrofluido (ouriço metálico)**"/>
+
+        <TextView
+            style="@style/topic"
+            android:text="Você vai precisar de:" />
+
+        <TextView
+            style="@style/subtopic"
+            android:text="- 1 palha de aço;" />
+
+        <TextView
+            style="@style/subtopic"
+            android:text="- óleo vegetal;" />
+
+        <TextView
+            style="@style/subtopic"
+            android:text="- 1 superímã;" />
+
+        <TextView
+            style="@style/subtopic"
+            android:text="- 1 recipiente de vidro;" />
+
+        <TextView
+            style="@style/subtopic"
+            android:text="- 1 panela velha;" />
+
+        <TextView
+            style="@style/subtopic"
+            android:text="- 1 peneira;" />
+
+        <TextView
+            style="@style/subtopic"
+            android:text="- 1 Fiel Assistente (Adulto), pois todo Grande Cientista precisa de um." />
+
+        <TextView
+            style="@style/topic"
+            android:text="Como fazer:" />
+
+        <TextView
+            style="@style/subtopic"
+            android:text="- Atiar fogo na palha de aço que deve ser colocada dentro da panela (para isso, utilize o Fiel Assistente);" />
+
+        <TextView
+            style="@style/subtopic"
+            android:text="- Quando o restos da combustão da palha de aço esfriar, peneire-os para obter um pó de aço;" />
+
+        <TextView
+            style="@style/subtopic"
+            android:text="- Adicione o óleo vegetal ao pó de aço e misture até obter uma massa consistente;" />
+
+        <TextView
+            style="@style/subtopic"
+            android:text="- Coloque essa massa dentro do recipiente de vidro;" />
+
+        <TextView
+            style="@style/subtopic"
+            android:text="- Aproxime o superímã do fundo do recipiente de vidro (sem que o superímã encoste no vidro) e movimente-o à vontade." />
+
+        <TextView
+            style="@style/topic"
+            android:text="Resultado:" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ferrofluido"/>
+
+        <Button style="@style/btn_licao_cumprida" />
+
+    </LinearLayout>
+
+</ScrollView>

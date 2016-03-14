@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/container"
+    tools:context=".Index">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            style="@style/linear_vertical"
+            android:layout_height="wrap_content"
+            android:id="@+id/linear_index">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/frasco"/>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_weight="1">
+
+                    <TextView
+                        style="@style/info"
+                        android:id="@+id/txt_start"
+                        android:text="Bem vindo!"/>
+
+                    <View style="@style/horizontal_line"></View>
+
+                    <TextView
+                        style="@style/title"
+                        android:text="O que faremos hoje?"/>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <TextView
+                style="@style/link"
+                android:text="1. Abajur de lava de Gênio do Mal"
+                android:onClick="irLicao1"/>
+
+            <TextView
+                style="@style/link"
+                android:text="2. Calculadora de batatas do Mal"
+                android:onClick="irLicao2"/>
+
+            <TextView
+                style="@style/link"
+                android:text="3. Ferrofluido (ouriço metálico)"
+                android:onClick="irLicao3"/>
+
+            <TextView
+                style="@style/link"
+                android:text="4. Motor elétrico mais simples da galáxia"
+                android:onClick="irLicao4"/>
+
+            <TextView
+                style="@style/link"
+                android:text="5. Produção de Hidrogênio (Eletrólise da água)"
+                android:onClick="irLicao5"/>
+
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/atomo"
+            android:layout_below="@id/linear_index"
+            android:layout_alignParentRight="true"/>
+
+    </RelativeLayout>
+
+</ScrollView>

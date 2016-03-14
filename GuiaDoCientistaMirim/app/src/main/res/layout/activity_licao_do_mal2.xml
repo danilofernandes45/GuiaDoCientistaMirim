@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/container"
+    tools:context=".LicaoDoMal2">
+
+    <LinearLayout style="@style/linear_vertical">
+
+        <TextView
+            style="@style/info"
+            android:text="Gênios do Mal não podem fazer seus projetos no escuro. Agora que você pode fazê-los (e com estilo) podemos seguir para a Segunda Lição"/>
+
+        <View style="@style/horizontal_line"></View>
+
+        <TextView
+            style="@style/title"
+            android:text="**Calculadora de batatas do Mal**"/>
+
+        <TextView
+            style="@style/topic"
+            android:text="Você vai precisar de:" />
+
+        <TextView
+            style="@style/subtopic"
+            android:text="- 2 batatas;" />
+
+        <TextView
+            style="@style/subtopic"
+            android:text="- 2 pedaços de zinco;" />
+
+        <TextView
+            style="@style/subtopic"
+            android:text="- 2 pedaços de cobre;" />
+
+        <TextView
+            style="@style/subtopic"
+            android:text="- 3 pedaços de fio;" />
+
+        <TextView
+            style="@style/subtopic"
+            android:text="- 1 calculadora;" />
+
+        <TextView
+            style="@style/topic"
+            android:text="Como fazer:" />
+
+        <TextView
+            style="@style/subtopic"
+            android:text="- Enfie cada pedaço de zinco em um das pontas de cada batata;" />
+
+        <TextView
+            style="@style/subtopic"
+            android:text="- Enfie cada pedaço de cobre na outra ponta de cada batata;" />
+
+        <TextView
+            style="@style/subtopic"
+            android:text="- Enrole um das pontas de um dos pedaços de fio no pedaço de zinco de uma das batatas e a outra ponta no pedaço de cobre da outra batata;" />
+
+        <TextView
+            style="@style/subtopic"
+            android:text="- Enrole um das pontas de outro pedaço de fio no outro pedaço de zinco e a outra ponta no polo negativo da calculadora;" />
+
+        <TextView
+            style="@style/subtopic"
+            android:text="- Enrole um das pontas do último pedaço de fio no outro pedaço de cobre e a outra ponta no polo positivo da calculadora." />
+
+        <TextView
+            style="@style/topic"
+            android:text="Resultado:"
+            android:textSize="18dp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/calculadora_batata"/>
+
+        <Button style="@style/btn_licao_cumprida" />
+
+    </LinearLayout>
+
+</ScrollView>

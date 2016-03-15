@@ -69,11 +69,23 @@
     </style>
 
     <style name="btn_licao_cumprida">
-        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
         <item name="android:textColor">@color/colorTextBtn</item>
+        <item name="android:background">@color/colorButtonNormal</item>
         <item name="android:text">Lição cumprida!</item>
         <item name="android:onClick">cumprirLicao</item>
+    </style>
+
+    <style name="btn_inicio">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textColor">@color/colorTextBtn</item>
+        <item name="android:background">@color/colorBtn2</item>
+        <item name="android:text">Voltar ao início</item>
+        <item name="android:onClick">voltarInicio</item>
     </style>
 
     <style name="linear_vertical">

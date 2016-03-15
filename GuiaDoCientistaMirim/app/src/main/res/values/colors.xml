@@ -7,4 +7,6 @@
     <color name="colorAccent">#008f97</color>
     <color name="colorTopic">#000000</color>
     <color name="colorTextBtn">#FFFFFF</color>
+    <color name="colorBtnMenu">#FFFFFF</color>
+    <color name="colorBtn2">#94008f97</color>
 </resources>

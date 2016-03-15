@@ -4,80 +4,90 @@
     style="@style/container"
     tools:context=".Index">
 
-    <RelativeLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
+    <LinearLayout
+        style="@style/linear_vertical"
+        android:layout_height="wrap_content"
+        android:id="@+id/linear_index">
 
         <LinearLayout
-            style="@style/linear_vertical"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/linear_index">
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/frasco"/>
 
             <LinearLayout
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:orientation="horizontal">
+                android:orientation="vertical"
+                android:layout_weight="1">
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:src="@drawable/frasco"/>
+                <TextView
+                    style="@style/info"
+                    android:id="@+id/txt_start"
+                    android:text="Bem vindo!"/>
 
-                <LinearLayout
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:orientation="vertical"
-                    android:layout_weight="1">
+                <View style="@style/horizontal_line"></View>
 
-                    <TextView
-                        style="@style/info"
-                        android:id="@+id/txt_start"
-                        android:text="Bem vindo!"/>
-
-                    <View style="@style/horizontal_line"></View>
-
-                    <TextView
-                        style="@style/title"
-                        android:text="O que faremos hoje?"/>
-
-                </LinearLayout>
+                <TextView
+                    style="@style/title"
+                    android:text="@string/subtitle_index"/>
 
             </LinearLayout>
 
-            <TextView
-                style="@style/link"
-                android:text="1. Abajur de lava de Gênio do Mal"
-                android:onClick="irLicao1"/>
+        </LinearLayout>
 
-            <TextView
-                style="@style/link"
-                android:text="2. Calculadora de batatas do Mal"
-                android:onClick="irLicao2"/>
+        <TextView
+            style="@style/link"
+            android:text="1. Abajur de lava de Gênio do Mal"
+            android:onClick="irLicao1"/>
 
-            <TextView
-                style="@style/link"
-                android:text="3. Ferrofluido (ouriço metálico)"
-                android:onClick="irLicao3"/>
+        <TextView
+            style="@style/link"
+            android:text="2. Calculadora de batatas"
+            android:onClick="irLicao2"/>
 
-            <TextView
-                style="@style/link"
-                android:text="4. Motor elétrico mais simples da galáxia"
-                android:onClick="irLicao4"/>
+        <TextView
+            style="@style/link"
+            android:text="3. Ferrofluido (ouriço metálico)"
+            android:onClick="irLicao3"/>
 
-            <TextView
-                style="@style/link"
-                android:text="5. Produção de Hidrogênio (Eletrólise da água)"
-                android:onClick="irLicao5"/>
+        <TextView
+            style="@style/link"
+            android:text="4. Motor elétrico mais simples da galáxia"
+            android:onClick="irLicao4"/>
+
+        <TextView
+            style="@style/link"
+            android:text="5. Produção de Hidrogênio (Eletrólise da água)"
+            android:onClick="irLicao5"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="10dp">
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/colorBtnMenu"
+                android:src="@drawable/chat" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/colorBtnMenu"
+                android:src="@drawable/atomo" />
 
         </LinearLayout>
 
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:src="@drawable/atomo"
-            android:layout_below="@id/linear_index"
-            android:layout_alignParentRight="true"/>
-
-    </RelativeLayout>
+    </LinearLayout>
 
 </ScrollView>

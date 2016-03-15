@@ -18,12 +18,12 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/nome"
-            android:hint="Digite seu nome, jovem Padawan!"/>
+            android:hint="@string/hint_name"/>
 
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Clique para dorminar o mundo"
+            android:text="@string/btn_name"
             android:textColor="#ffffff"
             android:onClick="dominarMundo"/>
 

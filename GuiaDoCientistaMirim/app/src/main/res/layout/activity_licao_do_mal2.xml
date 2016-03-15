@@ -14,7 +14,7 @@
 
         <TextView
             style="@style/title"
-            android:text="**Calculadora de batatas do Mal**"/>
+            android:text="**Calculadora de batatas**"/>
 
         <TextView
             style="@style/topic"
@@ -74,7 +74,15 @@
             android:layout_height="wrap_content"
             android:src="@drawable/calculadora_batata"/>
 
-        <Button style="@style/btn_licao_cumprida" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button style="@style/btn_licao_cumprida" />
+            <Button style="@style/btn_inicio" />
+
+        </LinearLayout>
 
     </LinearLayout>
 

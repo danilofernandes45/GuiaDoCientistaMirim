@@ -18,4 +18,9 @@ public class LicaoDoMal3 extends AppCompatActivity {
         startActivity(it);
     }
 
+    public void voltarInicio(View view){
+        Intent it = new Intent(this, Index.class);
+        startActivity(it);
+    }
+
 }

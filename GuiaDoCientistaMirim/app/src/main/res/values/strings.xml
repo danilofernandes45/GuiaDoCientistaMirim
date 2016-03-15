@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">Guia Do Cientista Mirim</string>
+    <string name="app_name">Guide Of Little Scientist</string>
+    <string name="hint_name">Write your name, young Padawan!</string>
+    <string name="btn_name">Click for control the world</string>
+    <string name="subtitle_index">What do we make today?</string>
 </resources>

@@ -68,9 +68,18 @@
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/motor_eletrico2"/>
+            android:src="@drawable/motor_eletrico2"
+            android:layout_marginBottom="10dp"/>
 
-        <Button style="@style/btn_licao_cumprida" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button style="@style/btn_licao_cumprida" />
+            <Button style="@style/btn_inicio" />
+
+        </LinearLayout>
 
     </LinearLayout>
 

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guia Do Cientista Mirim</string>
+    <string name="hint_name">Digite seu nome, jovem Padawan!</string>
+    <string name="btn_name">Clique para dorminar o mundo</string>
+    <string name="subtitle_index">O que faremos hoje?</string>
+</resources>

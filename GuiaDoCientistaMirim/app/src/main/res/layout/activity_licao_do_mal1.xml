@@ -82,7 +82,15 @@
             android:layout_height="wrap_content"
             android:src="@drawable/abajur"/>
 
-        <Button style="@style/btn_licao_cumprida" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button style="@style/btn_licao_cumprida" />
+            <Button style="@style/btn_inicio" />
+
+        </LinearLayout>
 
     </LinearLayout>
 

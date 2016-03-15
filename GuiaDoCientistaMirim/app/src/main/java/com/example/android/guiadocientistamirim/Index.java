@@ -21,7 +21,7 @@ public class Index extends AppCompatActivity {
             nome = bundle.getString("NOME");
         }
 
-        txtStart.setText("Bem vindo, Dr. "+nome);
+        txtStart.setText("Bem vindo, Dr(a). "+nome);
 
     }
 

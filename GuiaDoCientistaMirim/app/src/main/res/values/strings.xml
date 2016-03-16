@@ -3,4 +3,10 @@
     <string name="hint_name">Write your name, young Padawan!</string>
     <string name="btn_name">Click for control the world</string>
     <string name="subtitle_index">What do we make today?</string>
+    <string name="explanation">**Explanation**</string>
+    <string name="exp1">The oil is less dense than water and insoluble in it, so he is on it, forming stages. When added to aspirin, it reacts with water and forms included in the products of this reaction, carbon dioxide. This, which forms bubbles to be less than water and oil, finishes rising, this fasticamente generating effervescent effect.</string>
+    <string name="next_lesson">Next lesson</string>
+    <string name="back">Back</string>
+    <string name="eChat" translatable="false">eChat</string>
+    <string name="curiosity">Curiosity of the day</string>
 </resources>

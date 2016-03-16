@@ -4,4 +4,9 @@
     <string name="hint_name">Digite seu nome, jovem Padawan!</string>
     <string name="btn_name">Clique para dorminar o mundo</string>
     <string name="subtitle_index">O que faremos hoje?</string>
+    <string name="explanation">**Explicação**</string>
+    <string name="exp1">O óleo é menos denso que a água e insolúvel na mesma, por isso, ele fica sobre ela, formando fases. Quando adicionada a aspirina, ela reage com a água e forma, dentre os produtos dessa reação, dióxido de carbono. Esse, forma bolhas e que por ser menos que a água e o óleo, acaba subindo, gerando este efeito fasticamente efervecente.</string>
+    <string name="next_lesson">Próxima lição</string>
+    <string name="back">Voltar</string>
+    <string name="curiosity">Curiosidade do dia</string>
 </resources>

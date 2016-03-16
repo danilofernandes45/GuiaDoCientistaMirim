@@ -29,6 +29,7 @@ public class LicaoDoMal3 extends AppCompatActivity {
                     }
                 })
                 .setNegativeButton(R.string.back, null);
+        exp.show();
     }
 
     public void voltarInicio(View view){

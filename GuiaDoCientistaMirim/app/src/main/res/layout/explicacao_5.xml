@@ -15,7 +15,7 @@
         <TextView
             style="@style/subtopic"
             android:layout_marginTop="10dp"
-            android:text=""/>
+            android:text="@string/exp5"/>
 
         <ImageView
             android:layout_width="match_parent"

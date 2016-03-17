@@ -21,7 +21,7 @@ public class LicaoDoMal3 extends AppCompatActivity {
         AlertDialog.Builder exp = new AlertDialog.Builder(this);
         LayoutInflater inflater = getLayoutInflater();
 
-        exp.setView(inflater.inflate(R.layout.explicacao_2, null))
+        exp.setView(inflater.inflate(R.layout.explicacao_3, null))
                 .setPositiveButton(R.string.next_lesson, new DialogInterface.OnClickListener() {
                     public void onClick(DialogInterface dialog, int id) {
                         Intent it = new Intent(getApplicationContext(), LicaoDoMal4.class);

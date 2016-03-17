@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/container">
+
+    <LinearLayout
+        style="@style/linear_vertical">
+
+        <TextView
+            style="@style/title"
+            android:layout_width="match_parent"
+            android:text="@string/you_know"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:id="@+id/curiosidade_dia"/>
+
+        <TextView
+            style="@style/title"
+            android:layout_width="match_parent"
+            android:gravity="right"
+            android:text="\?"/>
+
+    </LinearLayout>
+
+</ScrollView>

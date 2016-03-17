@@ -13,4 +13,37 @@
     <string name="exp3">O ferrofluido não passa de muitos pedacinhos metálicos imerso em óleo sobre o efeito de um campo magnético. Ele induz cada pedaço de metal a se comportar como um imã, havendo uma orientação de polo positivo e negativo. Como positivo atre negativo e os semelhantes se repelem, eles vão se organizando na consistência e fluidez do óleo criando esse ouriço abiotíco.</string>
     <string name="exp4">Quando o imã é associado a pilha, ele passa a atuar como uma extensão dela, logo ele passa a ser o polo negativo. Nisso, sempre que o fio encosta no polo positivo e no ímã, há uma passagem de corrente, que interage com o campo magnético do ímã, gerando o movimento. Esse movimento dura por pouco tempo, devido o fio perder o contato com o polo negativo (ímã), mas, logo que encosta novamente, o movimento torna a se inicar.</string>
     <string name="exp5">A eletrólise da água, consiste na quebra da molécula de água em 2 átomos de hidrogênio e um de oxigênio por meio da adição de eletricidade. Mas, para que haja condutividade elétrica no meio aquoso seja uma solução iônica, por isso adiciona-se o bicarbonato de sódio. O hidrogênio logo que é formado está no estado gasoso e por ser menos denso que a água acaba subindo e sendo liberado pela mangueira, formando bolhas no detergente.</string>
+    <string-array name="curiosities">
+        <item>a constelação de escorpião tem 13 estrelas</item>
+        <item>a primeira estrela visível após o pôr-do-Sol é o planeta Vênus e é chamada em muitos lugares de estrela d\'alva</item>
+        <item>Netuno chove diamantes</item>
+        <item>a gravidade em Júpiter é aproximadamente 2,5 vezes maior que a da Terra</item>
+        <item>a velocidade da luz é aproximadamente 300.000 km/s</item>
+        <item>a diferença entre o grafite e o diamante é a forma como seus átomos de carbono estão organizados</item>
+        <item>o seu coração é aproximadamente do tamanho da sua mão fechada</item>
+        <item>a luz emitida pela Sol é resultado da colisão de átomos de hélio que formam hidrogênio</item>
+        <item>respirar oxigênio puro é tóxico para os pulmões</item>
+        <item>o Sol é uma estrela</item>
+        <item>enxergamos as coisas ao nosso redor graças a reflexão da luz sobre elas</item>
+        <item>o cloro em estado gasoso é tóxico</item>
+        <item>o ar é composto por 21% de Oxigênio, 78% de Nitrogênio e 1% de outros gases, além de variações de vapor de água</item>
+        <item>a velocidade do som é aproximadamente 340 m/s</item>
+        <item>o fígado é um órgão que tem a capacidade de se regenerar</item>
+        <item>o principal material utilizado na produção de papel é a celulose, que é encontrada nas plantas</item>
+        <item>o Sol possui uma massa 332900 vezes maior que a da Terra</item>
+        <item>o gás do riso, antes usado por dentistas, é o óxido nitroso</item>
+        <item>a água pura muda para o estado gasoso à 100ºC</item>
+        <item>Marte possue duas luas: Fobos, Deimos</item>
+        <item>o raio da Terra é de aproximadamente 6371 km</item>
+        <item>as plantas produzem o próprio alimento por meio de um processo chamado fotosíntese</item>
+        <item>as nuvens são formadas por inúmeras gotículas de água suspensas por correntes de ar</item>
+        <item>o calor do Sol que chega à Terra ocorre por meio de um fenômeno chamado irradiação"</item>
+        <item>ondas eletromagnéticas se propagam no vácuo</item>
+        <item>agrotóxicos presentes em alimentos que são consumidos a longo prazo causam câncer</item>
+        <item>o hélio entra em estado líquido à -268,9 °C</item>
+        <item>a distância entre a Terra e a Lua é de 384.400 km</item>
+        <item>o Sistema Solar se situa em uma galáxia chamada Via-Láctea</item>
+        <item>Marie Curie foi a mulher a ganhar um prêmio Nobel e a única pessoa a ganhar em duas categoria: Química e Física</item>
+    </string-array>
+    <string name="you_know">Você sabia que...</string>
 </resources>

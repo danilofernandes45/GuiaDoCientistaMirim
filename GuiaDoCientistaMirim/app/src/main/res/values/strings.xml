@@ -13,4 +13,37 @@
     <string name="exp3">The ferrofluid does not pass many metal pieces immersed in oil on the effect of a magnetic field. It induces every piece of metal to behave like a magnet, with a positive and negative pole orientation. As a positive atre negative and similar repel each other, they will organize the consistency and flow of oil creating this abiotic hedgehog.</string>
     <string name="exp4">When the magnet is associated with the stack, it starts to act as an extension of it, so it becomes the negative pole. Herein, when the wire touches the positive pole and the magnet, there is a current flow that interacts with the magnetic field of the magnet, generating movement. This movement lasts for a short time, because the wire to lose contact with the negative pole (magnet), but as soon as the slope again, the movement makes can commence.</string>
     <string name="exp5">The water electrolysis, consists in breaking the water molecule 2 hydrogen atoms and oxygen by the addition of electricity. But, that there is electrical conductivity in the aqueous medium is an ionic solution, this is added sodium bicarbonate. The hydrogen which is soon formed is in a gaseous state and be less dense than water rising ends and being released from the hose, forming bubbles on the detergent.</string>
+    <string-array name="curiosities">
+        <item>the Scorpion constellation has 13 stars</item>
+        <item>the first star visible after sunset, the sun is the planet Venus and is called in many places morning star</item>
+        <item>Neptune rains diamonds</item>
+        <item>gravity on Jupiter is about 2.5 times larger than Earth</item>
+        <item>the speed of light is approximately 300,000 km / s</>
+        <item>the difference between graphite and diamond is the way their carbon atoms are arranged</item>
+        <item>your heart is about the size of your fist</item>
+        <item>the light emitted by the sun is the result of the collision of helium atoms that form hydrogen</item>
+        <item>air consists of 21% oxygen, 78% nitrogen and 1% of other gases, and water vapor variations</item>
+        <item>breathe pure oxygen is toxic to lungs</item>
+        <item>the Sun is a star</item>
+        <item>chlorine in a gaseous state is toxic</item>
+        <item>we see things around us through the reflection of light on them</item>
+        <item>the main material used in the production of paper is pulp, which is found in plants</item>
+        <item>the speed of sound is about 340 m/s</item>
+        <item>The liver is an organ that has the ability to rejuvenate</item>
+        <item>the Sun has a mass 332,900 times greater than Earth\'s</item>
+        <item>pure water changes to the gaseous state at 100 °C</item>
+        <item>laughing gas before used by dentists, is nitrous oxide</item>
+        <item>Mars has two moons: Phobos, Deimos</item>
+        <item>the Earth\'s radius is approximately 6371 km</item>
+        <item>plants produce their own food via a process called photosynthesis</item>
+        <item>clouds are formed by numerous water droplets suspended by air currents</item>
+        <item>the heat from the Sun that reaches Earth occurs through a phenomenon called irradiation</item>
+        <item>Electromagnetic waves propagate in vacuum</item>
+        <item>pesticides in foods that are consumed in the long run cause cancer</item>
+        <item>Helium enters the liquid at -268.9 °C</item>
+        <item>the distance between the Earth and the Moon is 384,400 km</item>
+        <item>the solar system is located in a galaxy called the Milky Way</item>
+        <item>Marie Curie was the woman to win a Nobel Prize and the only person to win in two categories: Chemistry and Physics</item>
+    </string-array>
+    <string name="you_know">Did you know that...</string>
 </resources>

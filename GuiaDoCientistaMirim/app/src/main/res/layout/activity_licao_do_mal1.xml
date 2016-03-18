@@ -8,74 +8,34 @@
 
         <TextView
             style="@style/info"
-            android:text="Vista seu jaleco e dê sua risada maléfica, pois, agora vamos à primeira Lição do Mal"/>
+            android:text="@string/info1"/>
 
         <View style="@style/horizontal_line"></View>
 
         <TextView
             style="@style/title"
-            android:text="**Abajur de lava de Gênio do Mal**"/>
+            android:text=""/>
 
         <TextView
             style="@style/topic"
-            android:text="Você vai precisar de:"/>
+            android:text="@string/you_need"/>
 
         <TextView
             style="@style/subtopic"
-            android:text="- 50ml de água;" />
-
-        <TextView
-            style="@style/subtopic"
-            android:text="- 150ml de óleo vegetal;" />
-
-        <TextView
-            style="@style/subtopic"
-            android:text="- 2 cartuchos de canetas hidrocor;" />
-
-        <TextView
-            style="@style/subtopic"
-            android:text="- Um recipiente de 250ml;" />
-
-        <TextView
-            style="@style/subtopic"
-            android:text="- Aspirinas;" />
-
-        <TextView
-            style="@style/subtopic"
-            android:text="- 1 lâmpada ou lanterna." />
+            android:text="@string/materials1" />
 
         <TextView
             style="@style/topic"
-            android:text="Como fazer:"
+            android:text="@string/how_to_make"
             android:textSize="18dp" />
 
         <TextView
             style="@style/subtopic"
-            android:text="- Dissolva a tinta dos cartuchos na água;" />
-
-        <TextView
-            style="@style/subtopic"
-            android:text="- Despeje a mistura de água e tinta no recipiente;" />
-
-        <TextView
-            style="@style/subtopic"
-            android:text="- Despeje o óleo sobre a mistura no recipiente;" />
-
-        <TextView
-            style="@style/subtopic"
-            android:text="- Coloque a aspirina no recipiente;" />
-
-        <TextView
-            style="@style/subtopic"
-            android:text="- Ascenda a lâmpada/lanterna por trás do recipiente para iluminar o efeito;" />
-
-        <TextView
-            style="@style/subtopic"
-            android:text="- Adicione novas aspirinas ao recipiente sempre que o efeito efervecente reduzir."/>
+            android:text="@string/todo1" />
 
         <TextView
             style="@style/topic"
-            android:text="Resultado:" />
+            android:text="@string/result" />
 
         <ImageView
             android:layout_width="match_parent"

@@ -18,32 +18,69 @@
         <item>the first star visible after sunset, the sun is the planet Venus and is called in many places morning star</item>
         <item>Neptune rains diamonds</item>
         <item>gravity on Jupiter is about 2.5 times larger than Earth</item>
-        <item>the speed of light is approximately 300,000 km / s</>
+        <item>the speed of light is approximately 300,000 km/s</item>
         <item>the difference between graphite and diamond is the way their carbon atoms are arranged</item>
         <item>your heart is about the size of your fist</item>
         <item>the light emitted by the sun is the result of the collision of helium atoms that form hydrogen</item>
-        <item>air consists of 21% oxygen, 78% nitrogen and 1% of other gases, and water vapor variations</item>
+        <item>air consists of 21%% oxygen, 78%% nitrogen and 1%% of other gases, and water vapor variations</item>
         <item>breathe pure oxygen is toxic to lungs</item>
         <item>the Sun is a star</item>
-        <item>chlorine in a gaseous state is toxic</item>
         <item>we see things around us through the reflection of light on them</item>
-        <item>the main material used in the production of paper is pulp, which is found in plants</item>
+        <item>chlorine in a gaseous state is toxic</item>
         <item>the speed of sound is about 340 m/s</item>
         <item>The liver is an organ that has the ability to rejuvenate</item>
+        <item>the main material used in the production of paper is pulp, which is found in plants</item>
         <item>the Sun has a mass 332,900 times greater than Earth\'s</item>
         <item>pure water changes to the gaseous state at 100 °C</item>
         <item>laughing gas before used by dentists, is nitrous oxide</item>
         <item>Mars has two moons: Phobos, Deimos</item>
-        <item>the Earth\'s radius is approximately 6371 km</item>
+        <item>the Earth\'s radius is approximately 6,371 km</item>
         <item>plants produce their own food via a process called photosynthesis</item>
         <item>clouds are formed by numerous water droplets suspended by air currents</item>
         <item>the heat from the Sun that reaches Earth occurs through a phenomenon called irradiation</item>
         <item>Electromagnetic waves propagate in vacuum</item>
         <item>pesticides in foods that are consumed in the long run cause cancer</item>
         <item>Helium enters the liquid at -268.9 °C</item>
+        <item>Mercury is a metal that, at room temperature, is liquid</item>
         <item>the distance between the Earth and the Moon is 384,400 km</item>
         <item>the solar system is located in a galaxy called the Milky Way</item>
         <item>Marie Curie was the woman to win a Nobel Prize and the only person to win in two categories: Chemistry and Physics</item>
     </string-array>
     <string name="you_know">Did you know that...</string>
+    <string name="dialog_eugenio">Hi! My name is Eugenio and I\'m your virtual guide in the wonderful world of  Science! Before we begin our adventure, I would like to know how you\'re feeling today.</string>
+    <string name="echat_op1">Curious</string>
+    <string name="echat_op2">Creative</string>
+    <string name="echat_op3">Electric</string>
+    <string name="echat_op4">Dynamic</string>
+    <string name="echat_op5">Explosive</string>
+    <string name="res_echat_op1">If you are curious, take a look at the ferrofluid of experience. You will like it a lot!</string>
+    <string name="res_echat_op2">Creativity is going to be essential to build a lava lamp. Try it!</string>
+    <string name="res_echat_op3">Why not use the electricity to a calculator potatoes? It\'s fascinating!</string>
+    <string name="res_echat_op4">Dynamism reminds engine. Do the simplest imaginable engine and let their most dynamic adventures!</string>
+    <string name="res_echat_op5">Explosive? Spend all this energy produced fuel rockets, hydrogen!</string>
+    <string name="materials1">- 50ml water;\n- 150ml vegetable oil;\n- 2 colored marker pens cartridges of your choice;\n- A  container of 250ml;\n- Aspirinas;\n- 1 lamp or flashlight.</string>
+    <string name="todo1">- Dissolve the ink cartridges in water; \n- Pour the mixture of water and ink in the container; \n- Pour the oil onto the mixture in the container; \n- Place the aspirin in the container; \n- Turn the lamp/flashlight behind the container to illuminate the effect; \n- Add new aspirins to the container where the effervescent effect of reducing.</string>
+    <string name="how_to_make">How to make:</string>
+    <string name="result">Result:</string>
+    <string name="you_need">You will need:</string>
+    <string name="info1">Wear your coat and take his evil laugh, because now we go to the first experience!</string>
+    <string name="title_exp1">**Lava lamp of Evil Genius**</string>
+    <string name="btn_licao">Fulfilled lesson!</string>
+    <string name="back_begin">Back to begin</string>
+    <string name="info2">Evil Genius can not do their projects in the dark. Now you can make them (and style) can follow to the Second Lesson</string>
+    <string name="info3">Scientists who hold dear, create organic and metallic beings who can control. In this lesson, you created an organometallic be fully controllable!</string>
+    <string name="info4">Engines are moving life, and also the machines, once said a wise old man. In the fourth lesson I will bring you to build a super-simple electric motor to do</string>
+    <string name="info5">Such produce something explosive ?! In the fifth Mini Scientist lesson, we will produce the fuel used in rockets, Hydrogen!</string>
+    <string name="title_exp2">**Calculator potatoes**</string>
+    <string name="materials2">- 2 potatoes; \n- 2 pieces of zinc; \n- 2 pieces of copper; \n- 3 pieces of wire; \n- 1 calculator.</string>
+    <string name="todo2">- Shove each piece of zinc in one of the ends of each potato; \n- Thread each piece of copper at the other end of each potato; \n- Roll one of the ends of the wire pieces in zinc piece of potatoes and the other end on the piece of copper from other potatoes; \n- Roll a one end of the other wire piece on another piece of zinc and the other end to the negative pole of the calculator; \n- Roll one of the ends of the last piece of wire on another piece of copper and the other end to the positive pole of the calculator.</string>
+    <string name="title_exp3">**Ferrofluid (metal hedgehog)**</string>
+    <string name="materials3">- 1 steel wool;\n- vegetable oil; \n- 1 magnet; \n- 1 glass container; \n- 1 old pot; \n- 1 sieve; \n- 1 Faithful Assistant (Adult), for every great scientist needs one.</string>
+    <string name="todo3">- Firing the steel wool to be placed into the pot (for this, use the loyal assistant);\n- When the remains of the combustion of steel wool cool, sift them for a steel powder;\n- Add oil plant to the steel powder and mix until a consistent mass;\n- Put this mass in the glass container;\n- Bring the magnet glass container bottom (without the superímã touch the glass) and move it at will.</string>
+    <string name="title_exp4">**Simplest electric motor Galaxy**</string>
+    <string name="materials4">- 2 copper wire pieces; \n- 1 AA battery; \n- 1 magnet the same diameter of the stack;</string>
+    <string name="todo4">- Wrap the ends of copper wire, forming a new tip; \n- Open the other two wire ends forming a kind of arc, leaving the tip curled inward; \n- In the other two two ends form a circle, going toward one end of another wire, with circunfência slightly larger than the superímã; \n- Put magnet the negative pole of the stack; \n- Place the copper wire frame on the stack, so that the inner edge of the arc touches the positive pole of the stack and the surrounding circle magnet.</string>
+    <string name="title_exp5">**Hydrogen Production (Electrolysis of water)**</string>
+    <string name="materials5">- Water; \n- 1 tablespoon of baking soda; \n- 1 container with lid 500ml the seal properly; \n- 2 graffiti; \n- 1 thin hose; \n- 2 wires; \n- 1 9V battery; \n- Cola hot; \n- Detergent; \n- 1 small container; \n- 1 Faithful Assistant (Adult), for every great scientist needs one.</string>
+    <string name="todo5">- Make 3 holes in the lid, 2 side to graffiti and central to the hose; \n- Place the graffiti in the holes, so that the smallest of them is at the outside of the lid, and paste with col- hot, sealing the holes; \n- Repeat the process with the hose, so that it almost all on the outside cover; \n- Put water in the container with a lid leaving almost full, but without the hose in touch cover water; \n- Mix baking soda in water; \n- Cover the container; \n- Connect a wire to a battery pole and a graffiti and do the same with the other wire, joining the other pole and graphite; \n- Right now start to come out of the hose gas, but it is the oxygen present in it and not hydrogen. While this happens, put some detergent on the other recipiete; \n- Direct the end of the hose into the detergent in the container; \n- You will see that form soap bubbles, these contain hydrogen. To check, ask your assistant to fire the same with match or lighter and notice a small explosion.</string>
 </resources>

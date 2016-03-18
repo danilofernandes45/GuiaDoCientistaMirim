@@ -8,109 +8,33 @@
 
         <TextView
             style="@style/info"
-            android:text="Que tal produzirmos algo explosivo?! Na quinta lição de Mini-cientista do Mal, produziremos o combustível utilizado nos foguetes, o Hidrogênio!"/>
+            android:text="@string/info5"/>
 
         <View style="@style/horizontal_line"></View>
 
         <TextView
             style="@style/title"
-            android:text="**Produção de Hidrogênio (Eletrólise da água)**"/>
+            android:text="@string/title_exp5"/>
 
         <TextView
             style="@style/topic"
-            android:text="Você vai precisar de:" />
+            android:text="@string/you_need" />
 
         <TextView
             style="@style/subtopic"
-            android:text="- Água;" />
-
-        <TextView
-            style="@style/subtopic"
-            android:text="- 1 colher de sopa de bicarbonato de sódio;" />
-
-        <TextView
-            style="@style/subtopic"
-            android:text="- 1 recipiente de 500ml com tampa que o vede adequadamente;" />
-
-        <TextView
-            style="@style/subtopic"
-            android:text="- 2 grafites;" />
-
-        <TextView
-            style="@style/subtopic"
-            android:text="- 1 fina mangueira;" />
-
-        <TextView
-            style="@style/subtopic"
-            android:text="- 2 fios;" />
-
-        <TextView
-            style="@style/subtopic"
-            android:text="- 1 bateria de 9V;" />
-
-        <TextView
-            style="@style/subtopic"
-            android:text="- Cola-quente;" />
-
-        <TextView
-            style="@style/subtopic"
-            android:text="- Detergente;" />
-
-        <TextView
-            style="@style/subtopic"
-            android:text="- 1 recipiente pequeno;" />
-
-        <TextView
-            style="@style/subtopic"
-            android:text="- 1 Fiel Assistente (Adulto), pois todo Grande Cientista precisa de um." />
+            android:text="@string/materials5" />
 
         <TextView
             style="@style/topic"
-            android:text="Como fazer:" />
+            android:text="@string/how_to_make" />
 
         <TextView
             style="@style/subtopic"
-            android:text="- Faça 3 furos na tampa do recipiente, os 2 laterais para os grafites e o central para a mangueira;" />
-
-        <TextView
-            style="@style/subtopic"
-            android:text="- Coloque os grafites nos furos, de modo que a menor parte deles fique na parte externa da tampa, e cole com cola-quente, vedando os furos;" />
-
-        <TextView
-            style="@style/subtopic"
-            android:text="- Repita o processo com a mangueira, de modo que fique quase toda na parte externa da tampa;" />
-
-        <TextView
-            style="@style/subtopic"
-            android:text="- Coloque água no recipiente com tampa deixando quase cheio, mas sem que a mangueira na tampa toque a água;" />
-
-        <TextView
-            style="@style/subtopic"
-            android:text="- Misture o bicarbonato de sódio na água;" />
-
-        <TextView
-            style="@style/subtopic"
-            android:text="- Tampe o recipiente;" />
-
-        <TextView
-            style="@style/subtopic"
-            android:text="- Ligue um fio a um polo da bateria e a um dos grafites e faça o mesmo com o outro fio, associando ao outro polo e grafite;" />
-
-        <TextView
-            style="@style/subtopic"
-            android:text="- Neste momento começará a sair gás da mangueira, mas trata-se do oxigênio presente nela e não o hidrogênio. Enquanto isso acontece, coloque um pouco de detergente no outro recipiete;" />
-
-        <TextView
-            style="@style/subtopic"
-            android:text="- Direcione a ponta da mangueira para dentro do detergente no recipiente;" />
-
-        <TextView
-            style="@style/subtopic"
-            android:text="- Verá que fomarão bolhas de sabão, essas conterão o hidrogênio. Para verificar, pedaça para seu assistente atiar fogo nas mesmas com fósforo ou isqueiro e observará uma pequena explosão." />
+            android:text="@string/todo5" />
 
         <TextView
             style="@style/topic"
-            android:text="Resultado:" />
+            android:text="@string/result" />
 
         <ImageView
             android:layout_width="wrap_content"

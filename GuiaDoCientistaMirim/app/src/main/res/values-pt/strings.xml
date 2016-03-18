@@ -21,29 +21,66 @@
         <item>a velocidade da luz é aproximadamente 300.000 km/s</item>
         <item>a diferença entre o grafite e o diamante é a forma como seus átomos de carbono estão organizados</item>
         <item>o seu coração é aproximadamente do tamanho da sua mão fechada</item>
-        <item>a luz emitida pela Sol é resultado da colisão de átomos de hélio que formam hidrogênio</item>
+        <item>a luz emitida pelo Sol é resultado da colisão de átomos de hélio que formam hidrogênio</item>
+        <item>o ar é composto por 21%% de Oxigênio, 78%% de Nitrogênio e 1%% de outros gases, além de variações de vapor de água</item>
         <item>respirar oxigênio puro é tóxico para os pulmões</item>
         <item>o Sol é uma estrela</item>
         <item>enxergamos as coisas ao nosso redor graças a reflexão da luz sobre elas</item>
         <item>o cloro em estado gasoso é tóxico</item>
-        <item>o ar é composto por 21% de Oxigênio, 78% de Nitrogênio e 1% de outros gases, além de variações de vapor de água</item>
         <item>a velocidade do som é aproximadamente 340 m/s</item>
         <item>o fígado é um órgão que tem a capacidade de se regenerar</item>
         <item>o principal material utilizado na produção de papel é a celulose, que é encontrada nas plantas</item>
-        <item>o Sol possui uma massa 332900 vezes maior que a da Terra</item>
-        <item>o gás do riso, antes usado por dentistas, é o óxido nitroso</item>
+        <item>o Sol possui uma massa 332.900 vezes maior que a da Terra</item>
         <item>a água pura muda para o estado gasoso à 100ºC</item>
-        <item>Marte possue duas luas: Fobos, Deimos</item>
-        <item>o raio da Terra é de aproximadamente 6371 km</item>
+        <item>o gás do riso, antes usado por dentistas, é o óxido nitroso</item>
+        <item>Marte possui duas luas: Fobos, Deimos</item>
+        <item>o raio da Terra é de aproximadamente 6.371 km</item>
         <item>as plantas produzem o próprio alimento por meio de um processo chamado fotosíntese</item>
         <item>as nuvens são formadas por inúmeras gotículas de água suspensas por correntes de ar</item>
         <item>o calor do Sol que chega à Terra ocorre por meio de um fenômeno chamado irradiação"</item>
         <item>ondas eletromagnéticas se propagam no vácuo</item>
         <item>agrotóxicos presentes em alimentos que são consumidos a longo prazo causam câncer</item>
         <item>o hélio entra em estado líquido à -268,9 °C</item>
+        <item>o mercúrio é um metal que, à temperatura ambiente, é líquido</item>
         <item>a distância entre a Terra e a Lua é de 384.400 km</item>
         <item>o Sistema Solar se situa em uma galáxia chamada Via-Láctea</item>
         <item>Marie Curie foi a mulher a ganhar um prêmio Nobel e a única pessoa a ganhar em duas categoria: Química e Física</item>
     </string-array>
     <string name="you_know">Você sabia que...</string>
+    <string name="dialog_eugenio">Olá! Meu nome é Eugênio e eu sou o seu guia virtual no maravilhoso mundo da ciência! Antes de iniciarmos nossa aventura, gostaria de saber como você está se sentindo hoje.</string>
+    <string name="echat_op1">Curioso</string>
+    <string name="echat_op2">Criativo</string>
+    <string name="echat_op3">Elétrico</string>
+    <string name="echat_op4">Dinâmico</string>
+    <string name="echat_op5">Explosivo</string>
+    <string name="res_echat_op1">Se você está curioso, dê uma olhada na experiência do ferrofluido. Você vai se amarrar!</string>
+    <string name="res_echat_op2">Criatividade é vai ser essencial para construir o abajur de lava. Experimente!</string>
+    <string name="res_echat_op3">Por que não usa essa eletricidade para fazer uma calculadora de batatas? Ela é fascinante!</string>
+    <string name="res_echat_op4">Dinamismo lembra motor. Faça o motor mais simples imaginável e deixe suas aventuras mais dinâmicas!</string>
+    <string name="res_echat_op5">Explosivo? Gaste essa energia toda produzido o combustível dos foguetes, o hidrogênio!</string>
+    <string name="materials1">- 50ml de água;\n- 150ml de óleo vegetal;\n- 2 cartuchos de canetas hidrocor de cor de sua preferência;\n- Um recipiente de 250ml;\n- Aspirinas;\n- 1 lâmpada ou lanterna.</string>
+    <string name="todo1">- Dissolva a tinta dos cartuchos na água;\n- Despeje a mistura de água e tinta no recipiente;\n- Despeje o óleo sobre a mistura no recipiente;\n- Coloque a aspirina no recipiente;\n- Ascenda a lâmpada/lanterna por trás do recipiente para iluminar o efeito;\n- Adicione novas aspirinas ao recipiente sempre que o efeito efervecente reduzir.</string>
+    <string name="how_to_make">Como fazer:</string>
+    <string name="result">Resultado:</string>
+    <string name="you_need">Você vai precisar de:</string>
+    <string name="info1">Vista seu jaleco e dê sua risada maléfica, pois, agora vamos à primeira experiência!</string>
+    <string name="title_exp1">**Abajur de lava de Gênio do Mal**</string>
+    <string name="btn_licao">Lição cumprida!</string>
+    <string name="back_begin">Voltar ao início</string>
+    <string name="info2">Gênios do Mal não podem fazer seus projetos no escuro. Agora que você pode fazê-los (e com estilo) podemos seguir para a Segunda Lição</string>
+    <string name="info3">Cientistas que se prezam, criam seres orgânicos e metálicos que possam controlar. Nesta lição, será criado um ser organometálico totalmente controlável!</string>
+    <string name="info4">Motores são o que movem a vida, e também as máquinas, já dizia um velho sábio. Na quarta lição, lhe guiarei pela construção de um motor elétrico super-simples de fazer</string>
+    <string name="info5">Que tal produzirmos algo explosivo?! Na quinta lição de Mini-cientista, produziremos o combustível utilizado nos foguetes, o Hidrogênio!</string>
+    <string name="title_exp2">**Calculadora de batatas**</string>
+    <string name="materials2">- 2 batatas;\n - 2 pedaços de zinco;\n - 2 pedaços de cobre;\n- 3 pedaços de fio;\n - 1 calculadora.</string>
+    <string name="todo2">- Enfie cada pedaço de zinco em um das pontas de cada batata;\n- Enfie cada pedaço de cobre na outra ponta de cada batata;\n- Enrole um das pontas de um dos pedaços de fio no pedaço de zinco de uma das batatas e a outra ponta no pedaço de cobre da outra batata;\n- Enrole um das pontas de outro pedaço de fio no outro pedaço de zinco e a outra ponta no polo negativo da calculadora;\n- Enrole um das pontas do último pedaço de fio no outro pedaço de cobre e a outra ponta no polo positivo da calculadora.</string>
+    <string name="title_exp3">**Ferrofluido (ouriço metálico)**</string>
+    <string name="materials3">- 1 palha de aço;\n- óleo vegetal;\n- 1 superímã; \n- 1 recipiente de vidro; \n- 1 panela velha; \n- 1 peneira; \n- 1 Fiel Assistente (Adulto), pois todo Grande Cientista precisa de um.</string>
+    <string name="todo3">- Atear fogo na palha de aço que deve ser colocada dentro da panela (para isso, utilize o Fiel Assistente);\n- Quando o restos da combustão da palha de aço esfriar, peneire-os para obter um pó de aço;\n- Adicione o óleo vegetal ao pó de aço e misture até obter uma massa consistente;\n- Coloque essa massa dentro do recipiente de vidro;\n- Aproxime o superímã do fundo do recipiente de vidro (sem que o superímã encoste no vidro) e movimente-o à vontade.</string>
+    <string name="title_exp4">**Motor elétrico mais simples da galáxia**</string>
+    <string name="materials4">- 2 pedaços de fio de cobre;\n- 1 pilha AA;\n- 1 superímã com o mesmo diâmetro da pilha;</string>
+    <string name="todo4">- Enrole as pontas dos fios de cobre, formando uma nova ponta;\n- Abra as outras duas pontas dos fios formando uma espécie de arco, deixando a ponta enrolado para dentro;\n- Com as outras duas duas pontas forme um círculo, indo uma ponta em direção ao fio da outra, com a circunfência um pouco maior que a do superímã;\n- Coloque o superímã no polo negativo da pilha;\n- Coloque a armação de fio de cobre sobre a pilha, de modo que a ponta interna do arco toque o polo positivo da pilha e o círculo entorno do superímã.</string>
+    <string name="title_exp5">**Produção de Hidrogênio (Eletrólise da água)**</string>
+    <string name="materials5">- Água;\n- 1 colher de sopa de bicarbonato de sódio;\n- 1 recipiente de 500ml com tampa que o vede adequadamente;\n- 2 grafites;\n- 1 fina mangueira;\n- 2 fios;\n- 1 bateria de 9V;\n- Cola-quente;\n- Detergente;\n- 1 recipiente pequeno;\n- 1 Fiel Assistente (Adulto), pois todo Grande Cientista precisa de um.</string>
+    <string name="todo5">- Faça 3 furos na tampa do recipiente, os 2 laterais para os grafites e o central para a mangueira;\n- Coloque os grafites nos furos, de modo que a menor parte deles fique na parte externa da tampa, e cole com cola-quente, vedando os furos;\n- Repita o processo com a mangueira, de modo que fique quase toda na parte externa da tampa;\n- Coloque água no recipiente com tampa deixando quase cheio, mas sem que a mangueira na tampa toque a água;\n- Misture o bicarbonato de sódio na água;\n- Tampe o recipiente;\n- Ligue um fio a um polo da bateria e a um dos grafites e faça o mesmo com o outro fio, associando ao outro polo e grafite;\n- Neste momento começará a sair gás da mangueira, mas trata-se do oxigênio presente nela e não o hidrogênio. Enquanto isso acontece, coloque um pouco de detergente no outro recipiete;\n- Direcione a ponta da mangueira para dentro do detergente no recipiente;\n- Verá que formarão bolhas de sabão, essas conterão o hidrogênio. Para verificar, peça para seu assistente atear fogo nas mesmas com fósforo ou isqueiro e observará uma pequena explosão.</string>
 </resources>

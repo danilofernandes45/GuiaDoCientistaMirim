@@ -14,8 +14,6 @@
         <item name="android:layout_height">match_parent</item>
         <item name="android:background">#ffffff</item>
         <item name="android:paddingBottom">@dimen/activity_vertical_margin</item>
-        <item name="android:paddingLeft">@dimen/activity_horizontal_margin</item>
-        <item name="android:paddingRight">@dimen/activity_horizontal_margin</item>
         <item name="android:paddingTop">@dimen/activity_vertical_margin</item>
     </style>
 
@@ -74,7 +72,7 @@
         <item name="android:layout_weight">1</item>
         <item name="android:textColor">@color/colorTextBtn</item>
         <item name="android:background">@color/colorButtonNormal</item>
-        <item name="android:text">Lição cumprida!</item>
+        <item name="android:text">@string/btn_licao</item>
         <item name="android:onClick">cumprirLicao</item>
     </style>
 
@@ -84,13 +82,15 @@
         <item name="android:layout_weight">1</item>
         <item name="android:textColor">@color/colorTextBtn</item>
         <item name="android:background">@color/colorBtn2</item>
-        <item name="android:text">Voltar ao início</item>
+        <item name="android:text">@string/back_begin</item>
         <item name="android:onClick">voltarInicio</item>
     </style>
 
     <style name="linear_vertical">
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_marginLeft">@dimen/activity_horizontal_margin</item>
+        <item name="android:layout_marginRight">@dimen/activity_horizontal_margin</item>
         <item name="android:orientation">vertical</item>
         <item name="android:gravity">center_horizontal</item>
     </style>

@@ -2,8 +2,7 @@
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     style="@style/container">
 
-    <LinearLayout
-        style="@style/linear_vertical">
+    <LinearLayout style="@style/linear_vertical">
 
         <TextView
             style="@style/title"
@@ -11,16 +10,17 @@
             android:text="@string/you_know"/>
 
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textSize="16sp"
+            style="@style/subtopic"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
             android:id="@+id/curiosidade_dia"/>
 
         <TextView
             style="@style/title"
             android:layout_width="match_parent"
+            android:textSize="30sp"
             android:gravity="right"
-            android:text="\?"/>
+            android:text="\? "/>
 
     </LinearLayout>
 

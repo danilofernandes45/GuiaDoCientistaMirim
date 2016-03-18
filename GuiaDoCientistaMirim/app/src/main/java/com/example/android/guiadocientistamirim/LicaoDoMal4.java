@@ -7,6 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
+import android.widget.TextView;
 
 public class LicaoDoMal4 extends AppCompatActivity {
 
@@ -19,8 +20,11 @@ public class LicaoDoMal4 extends AppCompatActivity {
     public void cumprirLicao(View view){
         AlertDialog.Builder exp = new AlertDialog.Builder(this);
         LayoutInflater inflater = getLayoutInflater();
+        View view_exp = inflater.inflate(R.layout.explicacao, null);
+        TextView txt = (TextView)view_exp.findViewById(R.id.txt_exp);
+        txt.setText(R.string.exp4);
 
-        exp.setView(inflater.inflate(R.layout.explicacao_4, null))
+        exp.setView(view_exp)
                 .setPositiveButton(R.string.next_lesson, new DialogInterface.OnClickListener() {
                     public void onClick(DialogInterface dialog, int id) {
                         Intent it = new Intent(getApplicationContext(), LicaoDoMal5.class);

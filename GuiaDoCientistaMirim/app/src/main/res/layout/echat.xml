@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/container">
+
+    <LinearLayout
+        style="@style/linear_vertical"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/icone"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:id="@+id/linear_dialog">
+
+            <TextView
+                style="@style/title"
+                android:layout_marginLeft="10dp"
+                android:layout_marginBottom="10dp"
+                android:text="@string/dialog_eugenio"
+                android:id="@+id/dialog_eugenio"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:id="@+id/opcoes">
+                <RadioButton
+                    style="@style/subtopic"
+                    android:text="@string/echat_op1"
+                    android:id="@+id/op1"/>
+
+                <RadioButton
+                    style="@style/subtopic"
+                    android:text="@string/echat_op2"
+                    android:id="@+id/op2"/>
+
+                <RadioButton
+                    style="@style/subtopic"
+                    android:text="@string/echat_op3"
+                    android:id="@+id/op3"/>
+
+                <RadioButton
+                    style="@style/subtopic"
+                    android:text="@string/echat_op4"
+                    android:id="@+id/op4"/>
+
+                <RadioButton
+                    style="@style/subtopic"
+                    android:text="@string/echat_op5"
+                    android:id="@+id/op5"/>
+            </LinearLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

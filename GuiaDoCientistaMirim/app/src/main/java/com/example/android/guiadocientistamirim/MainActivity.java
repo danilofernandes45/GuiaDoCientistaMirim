@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void dominarMundo(View view){
         Intent it = new Intent(this, Index.class);
+        //Envia o nome fornecido pelo usuário para a próxima Activity
         it.putExtra("NOME", nome.getText().toString());
         startActivity(it);
     }

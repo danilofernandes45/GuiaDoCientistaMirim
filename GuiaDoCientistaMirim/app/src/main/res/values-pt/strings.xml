@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Guia Do Cientista Mirim</string>
     <string name="hint_name">Digite seu nome, jovem Padawan!</string>
-    <string name="btn_name">Clique para dorminar o mundo</string>
+    <string name="btn_name">Clique para dominar o mundo</string>
     <string name="subtitle_index">O que faremos hoje?</string>
     <string name="explanation">**Explicação**</string>
     <string name="exp1">O óleo é menos denso que a água e insolúvel na mesma, por isso, ele fica sobre ela, formando fases. Quando adicionada a aspirina, ela reage com a água e forma, dentre os produtos dessa reação, dióxido de carbono. Esse, forma bolhas e que por ser menos que a água e o óleo, acaba subindo, gerando este efeito fantasticamente efervecente.</string>
@@ -83,4 +83,10 @@
     <string name="title_exp5">**Produção de Hidrogênio (Eletrólise da água)**</string>
     <string name="materials5">- Água;\n- 1 colher de sopa de bicarbonato de sódio;\n- 1 recipiente de 500ml com tampa que o vede adequadamente;\n- 2 grafites;\n- 1 fina mangueira;\n- 2 fios;\n- 1 bateria de 9V;\n- Cola-quente;\n- Detergente;\n- 1 recipiente pequeno;\n- 1 Fiel Assistente (Adulto), pois todo Grande Cientista precisa de um.</string>
     <string name="todo5">- Faça 3 furos na tampa do recipiente, os 2 laterais para os grafites e o central para a mangueira;\n- Coloque os grafites nos furos, de modo que a menor parte deles fique na parte externa da tampa, e cole com cola-quente, vedando os furos;\n- Repita o processo com a mangueira, de modo que fique quase toda na parte externa da tampa;\n- Coloque água no recipiente com tampa deixando quase cheio, mas sem que a mangueira na tampa toque a água;\n- Misture o bicarbonato de sódio na água;\n- Tampe o recipiente;\n- Ligue um fio a um polo da bateria e a um dos grafites e faça o mesmo com o outro fio, associando ao outro polo e grafite;\n- Neste momento começará a sair gás da mangueira, mas trata-se do oxigênio presente nela e não o hidrogênio. Enquanto isso acontece, coloque um pouco de detergente no outro recipiete;\n- Direcione a ponta da mangueira para dentro do detergente no recipiente;\n- Verá que formarão bolhas de sabão, essas conterão o hidrogênio. Para verificar, peça para seu assistente atear fogo nas mesmas com fósforo ou isqueiro e observará uma pequena explosão.</string>
+    <string name="welcome">Bem vindo, Dr(a).</string>
+    <string name="index_exp1">1. Abajur de lava</string>
+    <string name="index_exp2">2. Calculadora de batatas</string>
+    <string name="index_exp3">3. Ferrofluido (ouriço metálico)</string>
+    <string name="index_exp4">4. Motor elétrico mais simples da galáxia</string>
+    <string name="index_exp5">5. Produção de Hidrogênio (Eletrólise da água)</string>
 </resources>

@@ -20,6 +20,7 @@ public class LicaoDoMal1 extends AppCompatActivity {
         setContentView(R.layout.activity_licao_do_mal1);
     }
 
+    //Ouvinte do evento de clique do Lição cumprida (abre tela de diálogo com a explicação)
     public void cumprirLicao(View view){
 
         AlertDialog.Builder exp = new AlertDialog.Builder(this);

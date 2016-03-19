@@ -28,7 +28,7 @@
                 <TextView
                     style="@style/info"
                     android:id="@+id/txt_start"
-                    android:text="Bem vindo!"/>
+                    android:text="@string/welcome"/>
 
                 <View style="@style/horizontal_line"></View>
 
@@ -42,27 +42,27 @@
 
         <TextView
             style="@style/link"
-            android:text="1. Abajur de lava de Gênio do Mal"
+            android:text="@string/index_exp1"
             android:onClick="irLicao1"/>
 
         <TextView
             style="@style/link"
-            android:text="2. Calculadora de batatas"
+            android:text="@string/index_exp2"
             android:onClick="irLicao2"/>
 
         <TextView
             style="@style/link"
-            android:text="3. Ferrofluido (ouriço metálico)"
+            android:text="@string/index_exp3"
             android:onClick="irLicao3"/>
 
         <TextView
             style="@style/link"
-            android:text="4. Motor elétrico mais simples da galáxia"
+            android:text="@string/index_exp4"
             android:onClick="irLicao4"/>
 
         <TextView
             style="@style/link"
-            android:text="5. Produção de Hidrogênio (Eletrólise da água)"
+            android:text="@string/index_exp5"
             android:onClick="irLicao5"/>
 
 

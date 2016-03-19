@@ -83,4 +83,10 @@
     <string name="title_exp5">**Hydrogen Production (Electrolysis of water)**</string>
     <string name="materials5">- Water; \n- 1 tablespoon of baking soda; \n- 1 container with lid 500ml the seal properly; \n- 2 graffiti; \n- 1 thin hose; \n- 2 wires; \n- 1 9V battery; \n- Cola hot; \n- Detergent; \n- 1 small container; \n- 1 Faithful Assistant (Adult), for every great scientist needs one.</string>
     <string name="todo5">- Make 3 holes in the lid, 2 side to graffiti and central to the hose; \n- Place the graffiti in the holes, so that the smallest of them is at the outside of the lid, and paste with col- hot, sealing the holes; \n- Repeat the process with the hose, so that it almost all on the outside cover; \n- Put water in the container with a lid leaving almost full, but without the hose in touch cover water; \n- Mix baking soda in water; \n- Cover the container; \n- Connect a wire to a battery pole and a graffiti and do the same with the other wire, joining the other pole and graphite; \n- Right now start to come out of the hose gas, but it is the oxygen present in it and not hydrogen. While this happens, put some detergent on the other recipiete; \n- Direct the end of the hose into the detergent in the container; \n- You will see that form soap bubbles, these contain hydrogen. To check, ask your assistant to fire the same with match or lighter and notice a small explosion.</string>
+    <string name="welcome">Welcome, Dr.</string>
+    <string name="index_exp1">1. Lava lamp</string>
+    <string name="index_exp2">2. Calculator potatoes</string>
+    <string name="index_exp3">3. Ferrofluid (metal hedgehog)</string>
+    <string name="index_exp4">4. The simplest electric motor of the galaxy</string>
+    <string name="index_exp5">5. Hydrogen Production (electrolysis of water)</string>
 </resources>

@@ -23,17 +23,17 @@ public class Index extends AppCompatActivity {
         curiosidades = getResources().getStringArray(R.array.curiosities);
 
         TextView txtStart = (TextView)findViewById(R.id.txt_start);
-        String nome = "";
+        String nome="";
 
         Bundle bundle = getIntent().getExtras();
         if(bundle!=null && bundle.containsKey("NOME")){
             nome = bundle.getString("NOME");
         }
 
-        txtStart.setText("Bem vindo, Dr(a). " + nome);
+        txtStart.setText(getResources().getString(R.string.welcome) +" "+ nome);
 
     }
-
+    //Redirecionamento aos experimentos
     public void irLicao1(View view){
         Intent it = new Intent(this, LicaoDoMal1.class);
         startActivity(it);
@@ -64,6 +64,7 @@ public class Index extends AppCompatActivity {
         final AlertDialog.Builder echat = new AlertDialog.Builder(this);
         LayoutInflater inflater = getLayoutInflater();
         final View dialogView = inflater.inflate(R.layout.echat, null);
+        //Ouvintes do evento de clique dos RadioButton's
         dialogView.findViewById(R.id.op1).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

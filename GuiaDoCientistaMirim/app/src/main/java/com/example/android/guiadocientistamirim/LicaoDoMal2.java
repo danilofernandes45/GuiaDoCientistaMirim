@@ -30,6 +30,7 @@ public class LicaoDoMal2 extends AppCompatActivity {
                     public void onClick(DialogInterface dialog, int id) {
                         Intent it = new Intent(getApplicationContext(), LicaoDoMal3.class);
                         startActivity(it);
+                        finish();
                     }
                 })
                 .setNegativeButton(R.string.back, null);
@@ -37,7 +38,6 @@ public class LicaoDoMal2 extends AppCompatActivity {
     }
 
     public void voltarInicio(View view){
-        Intent it = new Intent(this, Index.class);
-        startActivity(it);
+        finish();
     }
 }

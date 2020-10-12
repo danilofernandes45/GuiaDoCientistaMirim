@@ -1,4 +1,4 @@
-# Guia do Cientista Mirim
+# App Guia do Cientista Mirim
 
   O aplicativo tem como finalidade ensinar conceitos básicos de química e física por meio de experimentos. Como o público alvo é o infantojuvenil, busca-se tratar da temática de maneira lúdica e interativa, fomentando a curiosidade e dismistificando o universo científico ao seu redor. Para isso, conta-se com "Eugênio", o guia virtual que orientará nos experimentos e exclarecerá as dúvidas resultades do contato com novo. Ele age como uma interface com o aplicativo, dando a ideia de diálogo estabelecida entre o usuário e o mesmo.
   
